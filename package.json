@@ -2,7 +2,7 @@
   "name": "tres-en-raya",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joansaro.github.io/tres-en-raya",
+  "homepage": "https://joansaro.github.io/Tres-en-raya",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
